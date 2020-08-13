@@ -1,5 +1,4 @@
 # Winter Research 2020: Neural basis of consciousness (data analytics) - Sleep Staging
-# Monash University (tLab)
 
 ## Introduction
 Human EEG recordings over 32 hours of a sample is obtained. 
@@ -32,3 +31,6 @@ Repeat from step 1- step 4 for another dataset case (e.g. processed vs unprocess
 * B.D. Fulcher, M.A. Little, N.S. Jones. Highly comparative time-series analysis: the empirical structure of time series and their methods. J. Roy. Soc. Interface 10, 83 (2013).
 * B.D. Fulcher and N.S. Jones. hctsa: A computational framework for automated time-series phenotyping using massive feature extraction. Cell Systems 5, 527 (2017).
 * C.H. Lubba, S.S. Sethi, P. Knaute, S.R. Schultz, B.D. Fulcher, N.S. Jones. catch22: CAnonical Time-series CHaracteristics. Data Mining and Knowledge Discovery 33, 1821 (2019).
+
+## Acknowledgement 
+Thank you to Monash University, Professor Naotsugu Tsuchiya and everyone else in tLab for providing me the winter research opportunity!
