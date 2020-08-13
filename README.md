@@ -1,4 +1,4 @@
-# Winter-Research-2020
+# Winter Research 2020: Computational Neuroscience under Monash University tLab
 
 ## Introduction
 Human EEG recordings over 32 hours of a sample is obtained. 
