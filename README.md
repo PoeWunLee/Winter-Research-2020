@@ -14,7 +14,7 @@ All codes are written in MATLAB.
 
 ## Description
 ### Step 1: doExtractTimeSeries
-Extract data from .edf files and convert to .mat files, which are both found in <Data and mat files>. 
+Extract data from .edf files and convert to .mat files, which are both located in _*Data and mat files*_. 
 
 ### Step 2: doSaveINP
 Saves INP files which are required for initialisation for catch22 execution
