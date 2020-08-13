@@ -1,5 +1,4 @@
 # Winter-Research-2020
-Winter Research for Neural basis of consciousness (sleep staging)
 
 ## Introduction
 Human EEG recordings over 32 hours of a sample is obtained. 
