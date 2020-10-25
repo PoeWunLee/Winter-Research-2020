@@ -7,7 +7,7 @@ In this project, a subset of the highest performing 22 canonical features out of
 The features are then analysed and visualised, utilising unsupervised machine learning and dimensionality reduction techniques.
 All codes are written in MATLAB.
 
-## Prerequisites to run code (in same directory)
+## Dependencies (in same directory)
 1) hctsa toolbox (https://github.com/benfulcher/hctsa)
 2) fieldtrip toolbox (http://www.fieldtriptoolbox.org)
 
